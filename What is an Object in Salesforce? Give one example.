@@ -1,0 +1,2 @@
+An Object in Salesforce is a database table used to store information about a specific type of record.
+For example, the Student Object can store student details like name, roll number, and branch.
